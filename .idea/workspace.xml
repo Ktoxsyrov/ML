@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac840441-7cf7-4e1c-b1d7-6e650118a538" name="Changes" comment="rk2" />
+    <list default="true" id="ac840441-7cf7-4e1c-b1d7-6e650118a538" name="Changes" comment="labs1-3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654684210110</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="labs1-3">
+      <created>1654687981644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654687981644</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rk1" />
     <MESSAGE value="rk2" />
-    <option name="LAST_COMMIT_MESSAGE" value="rk2" />
+    <MESSAGE value="labs1-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="labs1-3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
